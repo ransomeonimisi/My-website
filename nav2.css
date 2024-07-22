@@ -1,0 +1,20 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: brown;
+    padding: 10px 20px;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    margin-left: 20px;
+    
+}
+ul a{
+    text-decoration: none;
+}

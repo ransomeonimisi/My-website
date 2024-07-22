@@ -1,0 +1,31 @@
+h1{
+    color:black;
+    font-family: Arial black;
+}
+body{
+    background-color: aqua;
+    background-image: url("73.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 200px;
+    font-family: 'Segoe UI';
+    font-size: 1em;
+    font-weight: 450;
+    
+}
+a{
+    text-decoration: none;
+}
+ol{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+#icons{
+    font-family: sans-serif;
+
+}
+.icon{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
